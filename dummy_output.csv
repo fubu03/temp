@@ -1,0 +1,23 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+Cognitive Growth Fund - Class X ,Califronia Tax Free Income Fund - Class X,0.076923077,0.461538462,0.051282051,0.666666667,1.444444444,0.015779093,1.615384615
+Cognitive Growth Fund - Class X,Califronia Tax Free Income Fund - Class X,0.41025641,0.461538462,0.153846154,0.375,0.8125,-0.035502959,0.861538462
+Core Equity Fund - Class 6 ,Cross equity dividend fund - Class Z,0.076923077,0.102564103,0.025641026,0.333333333,3.25,0.017751479,1.346153846
+Califronia Tax Free Income Fund - Class X,Cognitive Growth Fund - Class X,0.461538462,0.41025641,0.153846154,0.333333333,0.8125,-0.035502959,0.884615385
+Regional tax free income fund - Class S,Cognitive Growth Fund - Class X,0.230769231,0.41025641,0.076923077,0.333333333,0.8125,-0.017751479,0.884615385
+"Regional tax free income fund - Class S', 'Califronia Tax Free Income Fund - Class X",Cognitive Growth Fund - Class X,0.076923077,0.41025641,0.025641026,0.333333333,0.8125,-0.00591716,0.884615385
+Regional tax free income fund - Class S,Califronia Tax Free Income Fund - Class X,0.230769231,0.461538462,0.076923077,0.333333333,0.722222222,-0.029585799,0.807692308
+"Regional tax free income fund - Class S', 'Cognitive Growth Fund - Class X",Califronia Tax Free Income Fund - Class X,0.076923077,0.461538462,0.025641026,0.333333333,0.722222222,-0.009861933,0.807692308
+Cross equity dividend fund - Class Z,Core Equity Fund - Class 6 ,0.102564103,0.076923077,0.025641026,0.25,3.25,0.017751479,1.230769231
+Cross equity dividend fund - Class Z,Regional tax free income fund - Class S,0.102564103,0.230769231,0.025641026,0.25,1.083333333,0.001972387,1.025641026
+Cross equity dividend fund - Class Z,Cognitive Growth Fund - Class X,0.102564103,0.41025641,0.025641026,0.25,0.609375,-0.016436555,0.786324786
+Cross equity dividend fund - Class Z,Califronia Tax Free Income Fund - Class X,0.102564103,0.461538462,0.025641026,0.25,0.541666667,-0.021696252,0.717948718
+Cognitive Growth Fund - Class X,Regional tax free income fund - Class S,0.41025641,0.230769231,0.076923077,0.1875,0.8125,-0.017751479,0.946745562
+Califronia Tax Free Income Fund - Class X,Regional tax free income fund - Class S,0.461538462,0.230769231,0.076923077,0.166666667,0.722222222,-0.029585799,0.923076923
+"Califronia Tax Free Income Fund - Class X', 'Cognitive Growth Fund - Class X",Regional tax free income fund - Class S,0.153846154,0.230769231,0.025641026,0.166666667,0.722222222,-0.009861933,0.923076923
+Califronia Tax Free Income Fund - Class X,Cognitive Growth Fund - Class X ,0.461538462,0.076923077,0.051282051,0.111111111,1.444444444,0.015779093,1.038461538
+Regional tax free income fund - Class S,Cross equity dividend fund - Class Z,0.230769231,0.102564103,0.025641026,0.111111111,1.083333333,0.001972387,1.009615385
+Regional tax free income fund - Class S,"Califronia Tax Free Income Fund - Class X', 'Cognitive Growth Fund - Class X",0.230769231,0.153846154,0.025641026,0.111111111,0.722222222,-0.009861933,0.951923077
+Cognitive Growth Fund - Class X,"Regional tax free income fund - Class S', 'Califronia Tax Free Income Fund - Class X",0.41025641,0.076923077,0.025641026,0.0625,0.8125,-0.00591716,0.984615385
+Cognitive Growth Fund - Class X,Cross equity dividend fund - Class Z,0.41025641,0.102564103,0.025641026,0.0625,0.609375,-0.016436555,0.957264957
+Califronia Tax Free Income Fund - Class X,"Regional tax free income fund - Class S', 'Cognitive Growth Fund - Class X",0.461538462,0.076923077,0.025641026,0.055555556,0.722222222,-0.009861933,0.977375566
+Califronia Tax Free Income Fund - Class X,Cross equity dividend fund - Class Z,0.461538462,0.102564103,0.025641026,0.055555556,0.541666667,-0.021696252,0.950226244
